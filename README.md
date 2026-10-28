@@ -1,4 +1,4 @@
-Individuals Matter: Improving Deep Multi-View Clustering via Explicit Single-View Enhancement
+(NeurIPS2026) Individuals Matter: Improving Deep Multi-View Clustering via Explicit Single-View Enhancement
 
 📁 Code Availability
 
